@@ -7,9 +7,6 @@ public class C10R02 {
 
 	public static void main(String[] args) {
 		C10R01.average(n1, n2, n3);
-//..adsadasd
-	
-	
-	aaaa
+//test 2 comit sewer side
 	}
 }
